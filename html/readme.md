@@ -2,4 +2,4 @@
 
 Use via https://rawgit.com/ like so:
 
-* `https://rawgit.com/tolu/markdown/master/html/<file-name>`
+* `https://cdn.jsdelivr.net/gh/tolu/markdown/html/<file-name>`
